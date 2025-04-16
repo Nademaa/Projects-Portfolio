@@ -1,7 +1,7 @@
 # Projects-Portfolio
 This is a portfolio I created to showcase my works in Social and Geographical data science. 
 
-My CV can be found as pdf here.
+My CV can be found as pdf here: https://github.com/Nademaa/Projects-Portfolio/blob/main/CV_AdemaNurasheva2025.pdf 
  
 1. Assessing public transport accessibility in Astana, Kazakhstan using PTAL methodology (https://rpubs.com/AdemaN/1285198) 
 
